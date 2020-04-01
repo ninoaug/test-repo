@@ -1,0 +1,28 @@
+* {
+    margin: 5px;
+    padding: 3px;
+    border: 1px dotted black;
+    text-align: center;
+    font-family: "Segoe UI";
+    color: black;
+}
+
+header {
+    background-color: cornflowerblue;
+}
+
+main {
+    background-color:lawngreen;
+}
+
+nav {
+background-color: gold;
+}
+
+nav a {
+    background-color: orangered;
+}
+
+footer {
+    background-color: cornflowerblue;
+}
